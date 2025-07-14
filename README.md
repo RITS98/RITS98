@@ -6,7 +6,64 @@ I’m currently in the final year of my Master of Science in Data Science at **C
 
 Previously, I worked as a **Data Engineer at NatWest Group**, the fourth-largest bank in the UK and among the top 50 globally. There, I was responsible for designing and maintaining large-scale data pipelines that processed **terabytes of financial transactions** using **Oracle Integration Cloud**. I played a key role in the bank’s technology migration efforts migrating from legacy Oracle on-prem servers to Oracle Integration Cloud.
 
-Currently, my interests lie at the intersection of **Data Engineering** and **Machine Learning Engineering**. I enjoy architecting and experimenting with full-stack ML systems—end-to-end—from data ingestion to model deployment—using tools like **Docker**, **MLflow**, and **Apache Spark**. I’ve been actively building and breaking stuffs leveraging **free-tier AWS and GCP** as well as my own custom setups using Docker on my MacBook.
+Currently, my interests lie at the intersection of **Data Engineering** and **Machine Learning Engineering**. I enjoy architecting and experimenting with full-stack ML systems—end-to-end—from data ingestion to model deployment—using tools like **Docker**, **MLflow**, and **Apache Spark**. I've been actively building and breaking stuffs leveraging **free-tier AWS and GCP** as well as my own custom setups using Docker on my MacBook.
+
+
+## 📈 Career Timeline
+
+### 🎓 Current: Master's in Data Science | Columbia University
+**📅 September 2024 - December 2025**  
+📍 New York, NY
+
+**📚 Key Coursework and Focus Areas:**
+- Applied Machine Learning 
+- Applied Deep Learning
+- Machine Learning Operations (MLOps)
+- Data Engineering & Pipeline Architecture
+- Cloud Computing & Distributed Systems
+
+
+### 💼 Data Engineer | NatWest Group
+**📅 July 2022 - July 2024** *(2 years)*  
+📍 Gurugram, India | 🏦 4th Largest Bank in UK
+
+**🚀 Key Achievements:**
+- Orchestrated and maintained data pipelines on Oracle Integration Cloud to streamline transaction and reference data processing of the bank enhancing operational efficiency for downstream teams
+- Developed and deployed new ETL data pipelines to migrate legacy Oracle Hyperion Server to Oracle Integration Cloud, saving nearly 1 million British pounds annually on maintenance expenses of legacy systems
+- Automated data staging and transformation processes using SQL and Python, enabling seamless Oracle Database and Oracle ERP integration
+- Designed and implemented a test automation suite using Java and Selenium for Oracle ERP systems, slashing manual effort by 80% and reducing testing time from two weeks to three days
+- Implemented GitLab CI/CD pipelines with senior software engineers for smooth deployment of code and artifacts to SIT, UAT, and Production environments
+
+
+**🛠️ Technologies Used:**
+- Oracle Integration Cloud, Oracle Database, Oracle ERP
+- PL/SQL, Python, GitLab CI/CD
+
+
+
+### 🎓 Bachelor's in Electronics & Communication Engineering | VIT
+**📅 July 2018 - June 2022**  
+📍 Vellore, India
+
+**⚙️ Relevant Coursework:**
+- Data Structures & Algorithms
+- Database Management Systems
+- Opearting Systems
+
+
+## 🎯 Future Aspirations
+
+### 🚀 Short-term Goals (2025-2026)
+- **💼 Career:** Secure a role as Data Engineer/ML Engineer at a mission-driven tech company
+- **🛠️ Technical:** Master advanced MLOps practices and real-time data streaming
+- **📈 Impact:** Contribute to data systems that solve real-world problems at scale
+
+### 🌟 Long-term Vision
+**🔮 The Dream Project:**
+Build a open source **low-code data processing and ML platform** that democratizes data science:
+- **🎨 Drag-and-drop interface** for complex data workflows
+- **🧠 Automated ML model development** and deployment
+
 
 
 
