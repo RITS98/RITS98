@@ -38,7 +38,7 @@ Currently, my interests lie at the intersection of **Data Engineering** and **Ma
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### Containerization & Orchestration
+### Containerization
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Workflow & Version Control
