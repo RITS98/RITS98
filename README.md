@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi Explorers, I am Ritayan 
+
+## Columbia University Grad | Aspiring Data Engineer & Machine Learning Engineer 
+
+I am currently final year master's student in Data Science at Columbia University. Before becoming a student at Columbia University, I was a Data Engineer at NatWest Group (fourth largest bank in United Kingdom or 40th largest in the world). My speciality was to build robust data pipelines to process terabytes of financial transactions using Oracle Integration Cloud and was an essential part in the technology migration. Currently, I have focused knowledge in the Data Science mainly focusing on knowing and building and breaking infrastructre for Data and Machine Learning Projects on free AWS and GCP clouds as well as my own local machine using Docker.
+
 
 <!--
 **RITS98/RITS98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
