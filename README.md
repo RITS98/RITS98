@@ -149,3 +149,4 @@ Build a open source **low-code data processing and ML platform** that democratiz
 ### 📊 Data Analysis & Data Modeling Projects
 
 * 🎶 [Music Store Data Analysis Using SQL](https://github.com/RITS98/Music-Store-Data-Analysis-Using-SQL)
+* ⚡️ [Energy Consumption Analysis Using R](https://github.com/RITS98/Monthly-and-Annual-Energy-Consumption-Analysis)
