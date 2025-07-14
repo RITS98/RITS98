@@ -1,6 +1,6 @@
 # 👋 Hi Explorers, I'm Ritayan!
 
-## 🎓 Columbia University Grad | Aspiring Data & ML Engineer | 🚀 Builder of Scalable Data Systems
+## 🎓 Columbia University Grad | Aspiring Data & ML Engineer
 
 I’m currently in the final year of my Master of Science in Data Science at **Columbia University**, where I’m deepening my expertise in building and deploying data-intensive applications and machine learning systems.
 
