@@ -90,6 +90,6 @@ Currently, my interests lie at the intersection of **Data Engineering** and **Ma
 * ✈️ [Airline Passenger Referral Prediction](https://github.com/RITS98/Airline-Passenger-Referral-Prediction)
 * 🍔 [Food Delivery Time Prediction](https://github.com/RITS98/Food-Delivery-Prediction)
 
-### 📊 Data Analysis & Data Modeling
+### 📊 Data Analysis & Data Modeling Projects
 
 * 🎶 [Music Store Data Analysis Using SQL](https://github.com/RITS98/Music-Store-Data-Analysis-Using-SQL)
