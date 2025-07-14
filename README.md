@@ -2,11 +2,11 @@
 
 ## 🎓 Columbia University Grad | Aspiring Data & ML Engineer | 🚀 Builder of Scalable Data Systems
 
-I’m currently in the final year of my Master’s in Data Science at **Columbia University**, where I’m deepening my expertise in building and deploying data-intensive applications and machine learning systems.
+I’m currently in the final year of my Master of Science in Data Science at **Columbia University**, where I’m deepening my expertise in building and deploying data-intensive applications and machine learning systems.
 
 Previously, I worked as a **Data Engineer at NatWest Group**, the fourth-largest bank in the UK and among the top 50 globally. There, I was responsible for designing and maintaining large-scale data pipelines that processed **terabytes of financial transactions** using **Oracle Integration Cloud**. I played a key role in the bank’s technology migration efforts migrating from legacy Oracle on-prem servers to Oracle Integration Cloud.
 
-Currently, my interests lie at the intersection of **Data Engineering** and **Machine Learning Engineering**. I enjoy architecting and experimenting with full-stack ML systems—end-to-end—from data ingestion to model deployment—using tools like **Docker**, **MLflow**, and **Apache Spark**. I’ve been actively working on cloud-native and local ML infrastructures, leveraging **free-tier AWS and GCP** as well as my own custom setups on my MacBook.
+Currently, my interests lie at the intersection of **Data Engineering** and **Machine Learning Engineering**. I enjoy architecting and experimenting with full-stack ML systems—end-to-end—from data ingestion to model deployment—using tools like **Docker**, **MLflow**, and **Apache Spark**. I’ve been actively building and breaking stuffs leveraging **free-tier AWS and GCP** as well as my own custom setups using Docker on my MacBook.
 
 
 
