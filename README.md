@@ -120,7 +120,7 @@ Build a open source **low-code data processing and ML platform** that democratiz
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://rits98.github.io/)
 
 
-## My Portfolio Link - [Portfolio](https://rits98.github.io/)
+## 🔗 My Portfolio Link - [Portfolio](https://rits98.github.io/)
 
 ## 📂 Portfolio Highlights
 
