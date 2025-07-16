@@ -126,6 +126,7 @@ Build a open source **low-code data processing and ML platform** that democratiz
 
 ### 🔧 Data Engineering Projects
 
+* ⚙️ [IOT Vehicle Data Engieering Using Kafka, Spark and AWS](https://github.com/RITS98/IOT-Data-Engineering-Using-Kafka-Spark-and-AWS-Services/tree/main)
 * 🚀 [Reddit API Data Pipeline Using Airflow & AWS](https://github.com/RITS98/Reddit-API-Data-Processing-Using-Airflow-And-AWS)
 * 🌦️ [Automated Weather Data Pipeline with Airflow, dbt, Superset, and Docker](https://github.com/RITS98/Automated-Weather-Data-Pipeline-Using-Airflow-dbt-Superset-and-Docker)
 * 🛒 [Sales Data Engineering & Analysis on AWS](https://github.com/RITS98/Sales-Data-Engneering-and-Analysis-using-AWS-Services)
