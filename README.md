@@ -126,6 +126,9 @@ Build a open source **low-code data processing and ML platform** that democratiz
 
 ## 📂 Portfolio Highlights
 
+### 🔧 Data Engineering + 🤖 Machine Learning Project
+* 📈 [Near Realtime Stock Forecasting Using Docker, Airflow, Python, AWS, Mlflow, Dagshub, Ray, Pytorch](https://github.com/RITS98/Near-Realtime-Stock-Forecasting-Simulation)
+
 ### 🔧 Data Engineering Projects
 
 * ⚙️ [IOT Vehicle Data Engieering Using Kafka, Spark and AWS](https://github.com/RITS98/IOT-Data-Engineering-Using-Kafka-Spark-and-AWS-Services/tree/main)
