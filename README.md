@@ -126,6 +126,9 @@ Build a open source **low-code data processing and ML platform** that democratiz
 
 ## 📂 Portfolio Highlights
 
+### Product Analytics
+* 📱 [Apple AppStore Analytics with Simulated A/B Testing](https://github.com/RITS98/Apple-AppStore-Analytics-with-Simulated-AB-Testing)
+
 ### 🔧 Data Engineering + 🤖 Machine Learning Project
 * 📈 [Near Realtime Stock Forecasting Using Docker, Airflow, Python, AWS, Mlflow, Dagshub, Ray, Pytorch](https://github.com/RITS98/Near-Realtime-Stock-Forecasting-Simulation)
 
