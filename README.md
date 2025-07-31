@@ -154,7 +154,7 @@ Build a open source **low-code data processing and ML platform** that democratiz
 * 🔁 [Customer Churn Prediction with Deep Learning & MLOps](https://github.com/RITS98/Customer-Churn-Prediction-Using-Deep-Learning-and-MLOps)
 * ✈️ [Airline Passenger Referral Prediction](https://github.com/RITS98/Airline-Passenger-Referral-Prediction)
 * 🍔 [Food Delivery Time Prediction](https://github.com/RITS98/Food-Delivery-Prediction)
-* 😀 [Reading Between The Lines: A Nlp Approach To Sarcasm Detection](https://github.com/RITS98/Sarcasm-Classification)
+* 😀 [Reading Between The Lines: A NLP Approach To Sarcasm Detection](https://github.com/RITS98/Sarcasm-Classification)
 
 ### 📊 Data Analysis & Data Modeling Projects
 
