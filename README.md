@@ -143,6 +143,9 @@ Build a open source **low-code data processing and ML platform** that democratiz
 * 🏬 [Walmart Data Ingestion Pipeline Using Airflow to BigQuery](https://github.com/RITS98/Walmart-Data-Ingestion-Using-Airflow-to-BigQuery)
 * 🚆 [IRCTC Real-Time Ticket Booking Sync to Google BigQuery](https://github.com/RITS98/IRCTC-Realtime-ticket-booking-data-sync-to-Google-BigQuery)
 
+### ⌨️ Bash Scripting
+* 🛠️ [Introduction to Bash Scripting](https://github.com/RITS98/Introduction-to-Bash)
+
 ### 🐳 Docker Projects
 
 * 🧱 [Hadoop + Hive + Hive Metastore + PostgreSQL Setup Using Docker](https://github.com/RITS98/Hadoop-Hive-and-Hive-Metastore-Postgres-Setup-Using-Docker)
