@@ -27,13 +27,6 @@ Currently, my interests lie at the intersection of **Data Engineering** and **Ma
 **📅 July 2022 - July 2024** *(2 years)*  
 📍 Gurugram, India | 🏦 4th Largest Bank in UK
 
-**🚀 Key Achievements:**
-- Orchestrated and maintained data pipelines on Oracle Integration Cloud to streamline transaction and reference data processing of the bank enhancing operational efficiency for downstream teams
-- Developed and deployed new ETL data pipelines to migrate legacy Oracle Hyperion Server to Oracle Integration Cloud, saving nearly 1 million British pounds annually on maintenance expenses of legacy systems
-- Automated data staging and transformation processes using SQL and Python, enabling seamless Oracle Database and Oracle ERP integration
-- Designed and implemented a test automation suite using Java and Selenium for Oracle ERP systems, slashing manual effort by 80% and reducing testing time from two weeks to three days
-- Implemented GitLab CI/CD pipelines with senior software engineers for smooth deployment of code and artifacts to SIT, UAT, and Production environments
-
 
 **🛠️ Technologies Used:**
 - Oracle Integration Cloud, Oracle Database, Oracle ERP
