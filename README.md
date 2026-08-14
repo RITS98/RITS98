@@ -44,19 +44,6 @@ Currently, my interests lie at the intersection of **Data Engineering** and **Ma
 - Opearting Systems
 
 
-## 🎯 Future Aspirations
-
-### 🚀 Short-term Goals
-- **💼 Career:** Secure a role as Data Engineer/ML Engineer at a mission-driven tech company
-- **🛠️ Technical:** Master advanced MLOps practices and real-time data streaming and batch data processing
-- **📈 Impact:** Contribute to data systems and model development that solve real-world problems at scale
-
-### 🌟 Long-term Side Quest Mission
-Build a open source **low-code data processing and ML platform** that democratizes data science:
-- **🎨 Drag-and-drop interface** for complex data workflows
-- **🧠 Automated ML model development** and deployment
-
-
 
 
 ## 💻 Skills
