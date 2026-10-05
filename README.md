@@ -1,6 +1,6 @@
 # 👋 Hi Explorers, I'm Ritayan!
 
-## 🎓 Alumni@Columbia Univesity | AI Engineer and Data Scientist
+##  AI Engineer/Data Scientist | Alumni @ Columbia Univesity
 
 I’m a Master of Science in Data Science graduate from Columbia University, where I developed expertise in machine learning, data engineering, and building data-intensive applications and intelligent systems.
 
