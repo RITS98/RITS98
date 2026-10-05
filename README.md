@@ -1,48 +1,14 @@
 # 👋 Hi Explorers, I'm Ritayan!
 
-## 🎓 Columbia University Grad | Aspiring Data & ML Engineer
+## 🎓 Alumni@Columbia Univesity | AI Engineer and Data Scientist
 
-I’m currently in the final year of my Master of Science in Data Science at **Columbia University**, where I’m deepening my expertise in building and deploying data-intensive applications and machine learning systems.
+I’m a Master of Science in Data Science graduate from Columbia University, where I developed expertise in machine learning, data engineering, and building data-intensive applications and intelligent systems.
 
-Previously, I worked as a **Data Engineer at NatWest Group**, the fourth-largest bank in the UK and among the top 50 globally. There, I was responsible for designing and maintaining large-scale data pipelines that processed **terabytes of financial transactions** using **Oracle Integration Cloud**. I played a key role in the bank’s technology migration efforts migrating from legacy Oracle on-prem servers to Oracle Integration Cloud.
+Previously, I worked as a Data Engineer at NatWest Group, the fourth-largest bank in the UK. There, I designed and maintained large-scale data pipelines and integration solutions for financial systems using technologies including Oracle Integration Cloud, Python, SQL, and Spark. I also contributed to technology migration initiatives involving the transition from legacy Oracle on-premises systems to cloud-based integration platforms.
 
-Currently, my interests lie at the intersection of **Data Engineering** and **Machine Learning Engineering**. I enjoy architecting and experimenting with full-stack ML systems—end-to-end—from data ingestion to model deployment—using tools like **Docker**, **MLflow**, and **Apache Spark**. I've been actively building and breaking stuffs leveraging **free-tier AWS and GCP** as well as my own custom setups using Docker on my MacBook.
+Currently, I work as an AI Engineer/Data Scientist @ TCGDigital, focusing on building and deploying LLM-powered applications, AI agents, RAG systems, and machine learning solutions. My interests lie at the intersection of Artificial Intelligence, Data Science, and Data Engineering, with a focus on designing production-ready systems end-to-end—from data ingestion and processing to model development, orchestration, and deployment.
 
-
-## 📈 Career Timeline
-
-### 🎓 Current: Master's in Data Science | Columbia University
-**📅 September 2024 - December 2025**  
-📍 New York, NY
-
-**📚 Key Coursework and Focus Areas:**
-- Applied Machine Learning 
-- Applied Deep Learning
-- Machine Learning Operations (MLOps)
-- Data Engineering & Pipeline Architecture
-- Cloud Computing & Distributed Systems
-
-
-### 💼 Data Engineer | NatWest Group
-**📅 July 2022 - July 2024** *(2 years)*  
-📍 Gurugram, India | 🏦 4th Largest Bank in UK
-
-
-**🛠️ Technologies Used:**
-- Oracle Integration Cloud, Oracle Database, Oracle ERP
-- PL/SQL, Python, GitLab CI/CD
-
-
-
-### 🎓 Bachelor's in Electronics & Communication Engineering | VIT
-**📅 July 2018 - June 2022**  
-📍 Vellore, India
-
-**⚙️ Relevant Coursework:**
-- Data Structures & Algorithms
-- Database Management Systems
-- Opearting Systems
-
+I enjoy experimenting with new technologies and building systems from the ground up using tools such as Python, LangGraph, FastAPI, Docker, MLflow, Apache Spark, PostgreSQL, AWS. I’m particularly interested in agentic AI, machine learning systems, data infrastructure, and applied AI.
 
 
 
