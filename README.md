@@ -4,7 +4,7 @@
 
 I’m a Master of Science in Data Science graduate from Columbia University, where I developed expertise in machine learning, data engineering, and building data-intensive applications and intelligent systems.
 
-Previously, I worked as a Data Engineer at NatWest Group, the fourth-largest bank in the UK. There, I designed and maintained large-scale data pipelines and integration solutions for financial systems using technologies including Oracle Integration Cloud, Python, SQL, and Spark. I also contributed to technology migration initiatives involving the transition from legacy Oracle on-premises systems to cloud-based integration platforms.
+Previously, I worked as a Data Engineer at NatWest Group, one of the largest bank in the UK. There, I designed and maintained large-scale data pipelines and integration solutions for financial systems using technologies including Oracle Integration Cloud, Python, SQL. I also contributed to technology migration initiatives involving the transition from Oracle on-premises systems to cloud-based integration platforms.
 
 Currently, I work as an AI Engineer/Data Scientist @ TCGDigital, focusing on building and deploying LLM-powered applications, AI agents, RAG systems, and machine learning solutions. My interests lie at the intersection of Artificial Intelligence, Data Science, and Data Engineering, with a focus on designing production-ready systems end-to-end—from data ingestion and processing to model development, orchestration, and deployment.
 
